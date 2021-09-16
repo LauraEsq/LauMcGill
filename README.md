@@ -1,3 +1,2 @@
 # LauMcGill
-Sample collection protocol Sclerotinia sclerotiorum
-[Sample collection protocol.docx](https://github.com/LauraEsq/LauMcGill/files/7179597/Sample.collection.protocol.docx)
+[Sample collection protocol.pdf](https://github.com/LauraEsq/LauMcGill/files/7179817/Sample.collection.protocol.pdf)
